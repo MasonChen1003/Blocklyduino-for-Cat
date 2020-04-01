@@ -28,6 +28,8 @@ Forward / Backward / Turn Left / Turn Right / Sit / Say Hi
 ## Example code 
 ![image](blockly_remote_control_example.png)
 
+![image](remote_control.png)
+
 ## License
 
 Non-Commercial license.
