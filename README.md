@@ -3,6 +3,7 @@
 ## Q-ter Cat V1 
 Using TinyPlan97 to control the Robot Cat
 
+![image](TinyPlan97.png)
 
 This Blocklyduino extension will provide the basic motion for user to control the robot cat.
 ![image](blockly_cat.png)
