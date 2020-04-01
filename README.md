@@ -1,14 +1,21 @@
-![image](Shiun_robot_icon.png)
+![image](Q-ter_Cat.png)
    
-Q-ter Cat V1 (Robot cat Biped robot)
+Q-ter Cat V1 (Robot cat)
 Using TinyPlan97 to control the Robot Cat
 
 
 This Blocklyduino extension will provide the basic motion for user to control the robot cat.
+![image](blockly_cat.png)
 
 Basic motion :
 
 Forward / Backward / Turn Left / Turn Right / Sit / Say Hi
+
+Pin out 
+![image](Q-ter_Cat_pinout.png)
+
+Example code 
+![image](blockly_remote_control_example.png)
 
 ## License
 
