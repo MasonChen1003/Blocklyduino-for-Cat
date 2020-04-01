@@ -35,6 +35,4 @@ Non-Commercial license.
 Author : Mason Chen
 https://www.facebook.com/mason.chen.1420
 
-Supported targets
-for PXT/microbit (The metadata above is needed for package search.)
-c 2020 GitHub, Inc.
+
