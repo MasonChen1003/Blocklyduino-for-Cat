@@ -22,7 +22,7 @@ Basic motion :
 
 Forward / Backward / Turn Left / Turn Right / Sit / Say Hi
 
-## Pin out 
+## Wiring Order Diagram
 ![image](Q-ter_Cat_pinout.png)
 
 ## Example code 
