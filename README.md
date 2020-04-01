@@ -1,6 +1,6 @@
 ![image](Q-ter_Cat.png)
    
-Q-ter Cat V1 (Robot cat)
+## Q-ter Cat V1 (Robot cat)
 Using TinyPlan97 to control the Robot Cat
 
 
@@ -11,7 +11,7 @@ Basic motion :
 
 Forward / Backward / Turn Left / Turn Right / Sit / Say Hi
 
-Pin out 
+## Pin out 
 ![image](Q-ter_Cat_pinout.png)
 
 Example code 
