@@ -1,6 +1,6 @@
 ![image](Q-ter_Cat.png)
    
-## Q-ter Cat V1 
+## Q-ter Cat V1 (7697 + SG90 x10 + Ultrasonic )
 Using TinyPlan97 to control the Robot Cat
 
 ![image](TinyPlan97.png)
