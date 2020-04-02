@@ -8,6 +8,8 @@ Using TinyPlan97 to control the Robot Cat
 This Blocklyduino extension will provide the basic motion for user to control the robot cat.
 ![image](blockly_cat.png)
 
+![image](blockly_cat_2.png)
+
 ## How to use 
 This extension is based on MediaTek-Labs/BlocklyDuino-for-LinkIt 
 
