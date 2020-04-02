@@ -32,6 +32,7 @@ Forward / Backward / Turn Left / Turn Right / Sit / Say Hi
 
 ![image](remote_control.png)
 
+## Ready to go
 ![image](group_play_cat.jpg)
 
 ## License
